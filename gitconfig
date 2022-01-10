@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fabricekana10@gmail.com
+	name = Fabrice KANA
